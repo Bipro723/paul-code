@@ -1,0 +1,9 @@
+
+use Customer
+create table employee
+(
+  FirstName varchar(50),
+  LastName varchar(50),
+  NumberOfCars Int,
+  SeatsAvailibility Int,
+)
